@@ -32,7 +32,7 @@ Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 + Estar preparado para mudanças na carreira
 + Importância do engajamento com a comunidade
 
-# Autor:
+### Autor:
 
 Valdecir Carvalho
 
