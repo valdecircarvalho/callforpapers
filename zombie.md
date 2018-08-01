@@ -42,5 +42,5 @@ valdecir.carvalho@outlook.com
 
 https://valdecir.me
 
-[Link para Bio] (https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md)
+[Link para Bio](https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md)
 
