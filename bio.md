@@ -26,7 +26,7 @@ Valdecir Carvalho é um nerd e um profissional sênior de TI com foco em arquite
 + e-mail: valdecir.carvalho@outlook.com
 + telefone: + 55 11 95259-3615
 + http://valdecir.me
-+ Twitter: @homelaber
++ Twitter: [@homelaber](https://twitter.com/homelaber)
 
 
 ### Sites:
