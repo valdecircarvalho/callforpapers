@@ -32,4 +32,10 @@ Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 + 
 + 
 
+# Autor:
 
+Valdecir Carvalho
+valdecir.carvalho@outlook.com
+@homelaber
+https://valdecir.me
+Link para Bio
