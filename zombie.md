@@ -28,18 +28,19 @@ Mesmo sendo essa palestra relacionada com tecnologia, ela não aborda assuntos t
 
 Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 
-+ 
-+ 
-+ 
++ Estar sempre preparado para mudanças no mercado de TI
++ Estar preparado para mudanças na carreira
++ Importância do engajamento com a comunidade
 
 # Autor:
 
 Valdecir Carvalho
 
 valdecir.carvalho@outlook.com
+
 @homelaber
 
 https://valdecir.me
 
-Link para Bio
+[Link para Bio] (https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md)
 
