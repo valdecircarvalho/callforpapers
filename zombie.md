@@ -1,11 +1,7 @@
 # Título:
 
 
-## Um guia para sobreviver ao apocalipse (Zumbi) em IT Ops
-
-
-...
-
+# Um guia para sobreviver ao apocalipse (Zumbi) em IT Ops
 
 
 # Resumo:
