@@ -24,7 +24,7 @@ Essa palestra está formatada para durar entre 15 e 20 minutos, podendo ser esti
 
 Mesmo sendo essa palestra relacionada com tecnologia, ela não aborda assuntos técnicos, sendo indicada para o público em geral, que trabalha com IT. Todos irão se relacionar com as histórias abordadas durante a palestra.
 
-# Key Takeaway:
+# Key Takeaways:
 
 Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 
@@ -34,5 +34,5 @@ Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 
 ### Autor:
 
-Valdecir Carvalho | [Link para Bio](https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md)
+Valdecir Carvalho | [Link para Bio e mais informações](https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md)
 
