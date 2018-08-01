@@ -1,5 +1,3 @@
-https://github.com/valdecircarvalho/callforpapers/blob/master/img/zumbi-moving.gif
-
 # Título: Um guia para sobreviver ao apocalipse (Zumbi) em IT Ops
 
 
