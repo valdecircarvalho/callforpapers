@@ -15,7 +15,7 @@ Blogueiro ·  Podcaster ·  Palestrante ·  Community Lover ·  Fotógrafo Apose
 Valdecir Carvalho é um nerd e pai orgulhoso da Mariana e João.
 Atualmente trabalha como Tech Community Manager na VMware Inc. e é um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem.
 Valdecir também é blogueiro, podcaster, palestrante, amante de comunidades técnicas, fotógrafo aposentado e adoga jogos antigos.
-Se destaca e é de várias comunidades de tecnologia, como VMware vExpert, VMUG, vBrownBag e Veeam Vanguard.
+Se destaca e é de várias comunidades de tecnologia, como VMware vExpert, VMUG, vBrownBag e Veeam Vanguard. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br) e como podcaster no vBrownBag Brasil (http://vbrownbagbrasil.com.br)
 Você vai encontrá-lo no twitter como @homelaber e seu site é http://valdecir.me
 
 ### Bio 3
