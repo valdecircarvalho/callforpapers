@@ -12,11 +12,7 @@ Blogueiro ·  Podcaster ·  Palestrante ·  Community Lover ·  Fotógrafo Apose
 #vExpert · #VMUGLeader · #VUGBrasil · #vBronwBagBrasil · #VeeamVanguard
 
 ### Bio 2
-Valdecir Carvalho é um nerd e pai orgulhoso da Mariana e João.
-Atualmente trabalha como Tech Community Manager na VMware Inc. e é um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem.
-Valdecir também é blogueiro, podcaster, palestrante, amante de comunidades técnicas, fotógrafo aposentado e adoga jogos antigos.
-Se destaca e é de várias comunidades de tecnologia, como VMware vExpert, VMUG, vBrownBag e Veeam Vanguard. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br) e como podcaster no vBrownBag Brasil (http://vbrownbagbrasil.com.br)
-Você vai encontrá-lo no twitter como @homelaber e seu site é http://valdecir.me
+Valdecir Carvalho é um nerd e pai orgulhoso da Mariana e João. Atualmente trabalha como Tech Community Manager na VMware Inc, permitindo que comunidades e membros evoluam em suas vidas e carreiras. É um profissional sênior de TI com foco em arquitetura de infraestrutura. Valdecir também é blogueiro, podcaster, palestrante, amante de comunidades técnicas, fotógrafo aposentado e adora jogos antigos. Se destaca e é membro de várias comunidades de tecnologia, como VMware vExpert, VMUG, vBrownBag e Veeam Vanguard. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br) e como podcaster no vBrownBag Brasil (http://vbrownbagbrasil.com.br) Você vai encontrá-lo no twitter como @homelaber e seu site é http://valdecir.me
 
 ### Bio 3
 Valdecir Carvalho é um nerd e um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem. Atualmente é Tech Community Manager na VMware Inc, responsável pelo programa VMware vExpert PRO. VMUG Leader, ele é um amante de comunidades técnicas e foi premiado com vExpert e Veeam Vanguard. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br) e como podcaster no vBrownBag Brasil (http://vbrownbagbrasil.com.br). Você vai encontrá-lo sempre no twitter @homelaber
