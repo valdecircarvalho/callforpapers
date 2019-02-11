@@ -1,14 +1,16 @@
-# Título: 
-
+# Título: As comunidades técnicas mudaram a minha vida e vão mudar a sua também!
 
 # Resumo:
 
+.
 
 # Motivação:
 
+.
 
 # Público Alvo:
 
+m.
 
 # Key Takeaways:
 
