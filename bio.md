@@ -1,5 +1,5 @@
 # BIO
-Opções de biografias para serem utilizadas nas palestras. Fique a vontade para editar, encurtar ou criar uma nova com as informação abaixo.
+Opções de biografias para serem utilizadas nas palestras. Fique a vontade para editar, encurtar ou criar uma nova com as informações abaixo.
 
 # Português
 
