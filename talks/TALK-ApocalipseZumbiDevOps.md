@@ -10,7 +10,7 @@ IT Ops, Dev, DevOps, Cloud, Servless, HCI, etc.
 
 A cada dia uma nova moda ou tecnologia surge e você fica pensando: Como é que vou absorver tudo isso?
 
-Nessa palestra vamos discutir sobre os principais passos para guiar sua carreira através do apocalipse de IT, atravéz de uma divertida comparação entre o cenário atual de TI com as regras de sobrevivência do filme cult de 2009, Zumbilândia (Zombieland Survival Rules).
+Nessa palestra vamos discutir sobre os principais passos para guiar sua carreira através do apocalipse de IT, através de uma divertida comparação entre o cenário atual de TI com as regras de sobrevivência do filme cult de 2009, Zumbilândia (Zombieland Survival Rules).
 
 
 # Motivação:
