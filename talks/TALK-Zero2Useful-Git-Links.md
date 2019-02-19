@@ -1,26 +1,40 @@
-## Links de referência
+# Links de referência
 
-https://thepracticalsysadmin.com/a-git-primer-for-sysadmins/
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f
-https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826
-https://premium.wpmudev.org/blog/the-non-developers-guide-to-git-and-github/
-https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
-https://blog.gitprime.com/the-definitive-guide-to-forks-and-branches-in-git/
-https://rubygarage.org/blog/most-basic-git-commands-with-examples
-http://rogerdudler.github.io/git-guide/index.pt_BR.html
-http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
-https://womakerscode.gitbook.io/desvendando-git-e-github/
-https://git-scm.com/book/pt-br/v1/Primeiros-passos
-https://br.atlassian.com/git/tutorials
-https://guides.github.com/
-http://gabsferreira.com/git-e-github-sao-coisas-diferentes/
-http://gabsferreira.com/instalando-o-git-e-configurando-github/
-https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/
-https://blog.rocketseat.com.br/iniciando-com-git-github/
-https://www.brianbunke.com/blog/2017/05/08/github-101/
-https://br.atlassian.com/git/tutorials
-https://git-scm.com/book/pt-br/v1/Primeiros-passos
-https://womakerscode.gitbook.io/desvendando-git-e-github/
-http://rogerdudler.github.io/git-guide/
-http://rogerdudler.github.io/git-guide/index.pt_BR.html
+## Links de referência sobre a talk Zero2Useful - Git para quem não é Developer
+
++ https://git-scm.com/doc
++ https://thepracticalsysadmin.com/a-git-primer-for-sysadmins/
++ http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
++ https://git-scm.com/book/pt-br/v1/Primeiros-passos
++ http://rogerdudler.github.io/git-guide/index.pt_BR.html
++ https://rubygarage.org/blog/most-basic-git-commands-with-examples
++ https://www.brianbunke.com/blog/2017/05/08/github-101/
++ https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/
++ https://premium.wpmudev.org/blog/the-non-developers-guide-to-git-and-github/
++ http://slides.com/mabrasil/uma-introduo-a-versionamento-git-e-outras-coisas#/
++ https://blog.cedrotech.com/
++ https://womakerscode.gitbook.io/desvendando-git-e-github/
++ https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe/
+
+
+### Download Git for Windows
++ https://git-scm.com/download/win
+
+### Criar conta no Github
++ https://github.com/join
+
+### Alternativas ao GitHub
++ GitLab - https://about.gitlab.com/
++ Bitbucket - https://bitbucket.org/
+
+### Clients Git
++ SourceTree - https://www.sourcetreeapp.com/
++ GitHub Desktop - https://desktop.github.com/
++ Outras opções - https://git-scm.com/downloads/guis/
+
+
+### OnlineCV
++ https://github.com/sharu725/online-cv
+  
+
+
