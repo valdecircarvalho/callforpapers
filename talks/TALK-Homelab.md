@@ -1,4 +1,4 @@
-# Título: Cheap Homelab - Como criar um homelab para seus estudos de DevOps de uma forma fácil e barata
+# Título: Como criar um homelab para seus estudos de DevOps de uma forma fácil e barata
 
 
 # Resumo:
