@@ -20,3 +20,9 @@ My list of papers to present at conferences
 7. [From Zero to Useful - Terraform para Sysadmins. Como começar a usar o Terraform agora para automatizar seu dia a dia](https://github.com/valdecircarvalho/callforpapers/blob/master/talks/TALK-Zero2Useful-Terraform.md) - Português
 
 
+---
+
+### Bio
+https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md
+
+
