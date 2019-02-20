@@ -1,3 +1,10 @@
 *.txt
 *.log
-
+*.rec
+*.gif
+*.mp4
+*.tscproj
+*.code-workspace
+*.trec
+*.plist
+temp/

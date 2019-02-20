@@ -20,6 +20,10 @@ Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 + Como instalar o git em vários sistemas operacionais
 + Como começar a utilizar o git para sua ações do dia a dia
 
+#Links de Referência:
+
++ https://github.com/valdecircarvalho/callforpapers/blob/master/talks/TALK-Zero2Useful-Git-Links.md
+
 ### Autor:
 
 Valdecir Carvalho | [Link para Bio e mais informações](https://github.com/valdecircarvalho/callforpapers/blob/master/bio.md)
