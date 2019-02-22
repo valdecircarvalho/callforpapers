@@ -1,7 +1,11 @@
 # Call For Papers
-Minha lista de apresentações para conferências e eventos
+Minha lista de apresentações para conferências e eventos.
 
-My list of papers to present at conferences
+Se você quiser me convidar para falar em sua conferencia, entre em contato.
+
+My list of papers to present at conferences.
+
+I'm available to speak in conferences around the world. Get in touch.
 
 ---
 
