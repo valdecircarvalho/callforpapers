@@ -23,6 +23,8 @@ I'm available to speak in conferences around the world. Get in touch.
 
 7. [From Zero to Useful - Terraform para Sysadmins. Como começar a usar o Terraform agora para automatizar seu dia a dia](https://github.com/valdecircarvalho/callforpapers/blob/master/talks/TALK-Zero2Useful-Terraform.md) - Português
 
+8. [Virtualização 101 – Tudo o que você precisa saber sobre virtualização, mas não tinha a quem perguntar] (https://github.com/valdecircarvalho/callforpapers/blob/master/talks/TALK-Virtualiza%C3%A7%C3%A3o-101.md) - Português
+
 
 ---
 
