@@ -24,7 +24,7 @@ Quem assistir essa palestra irá levar como lição os seguintes takeaways:
 
 # Apresentações:
 
-+ Evento MVPConfLATAM 2019 - 13/04/2019 - http://bitly.com/mvpconfterraform
++ 13/04/2019 - Evento MVPConfLATAM 2019 - http://bitly.com/mvpconfterraform
 
 ### Autor:
 
