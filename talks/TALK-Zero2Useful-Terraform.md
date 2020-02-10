@@ -4,7 +4,7 @@
 
 Nesse talk vou mostrar como e porque você deve começar a usar Terraform agora mesmo, de uma maneira rápida e fácil. Se você não sabe NADA sobre Terraform, essa palestra é para você.
 
-Essa talk é originalmente focada em Terraform com AWS, mas também pode ser adaptada para Microsoft Azure e GCP.
+Essa talk pode ser adaptada para qualquer um dos grandes players de Cloud - Oracle, AWS, Azure, GCP, assim como para VMware vSphere.
 
 # Motivação:
 
