@@ -41,4 +41,3 @@ Valdecir Carvalho é um profissional sênior de TI com foco em arquitetura de in
 
 
 ---
-
