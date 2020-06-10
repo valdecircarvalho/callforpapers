@@ -37,6 +37,13 @@ Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combi
 
 ### Links da apresentação
 
+- [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ### Cloud Providers
 - [Amazon AWS]()
 - [Microsoft Azure]()
