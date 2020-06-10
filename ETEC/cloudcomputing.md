@@ -2,8 +2,54 @@
 
 Materiais sobre a palestra de Cloud Computing.
 
-
 ## CONCEITOS DE CLOUD COMPUTING
+
+### Definição de Cloud Computing (NIST)
+
+A computação em nuvem é um modelo para permitir acesso onipresente, conveniente e sob demanda da rede a umconjunto de recursos de computação configuráveis ​​(por exemplo, redes, servidores, armazenamento, aplicativos e serviços) que pode ser rapidamente provisionado e liberado com mínimo esforço de gerenciamento ou interação do provedor de serviços. Esse modelo de nuvem é composto por cinco características essenciais , três modelos de serviço e quatro modelos de implementação
+
+## Características de Cloud Computing
+
+São 5 as principais características do serviços de Cloud Computing:
+
+- **Auto-atendimento sob demanda (On-Demand Self-Service)**
+O consumidor pode usar os serviços da nuvem e, se achar necessário, aumentar ou diminuir as capacidades computacionais alocadas, como tempo de servidor, armazenamento de rede. Tudo isso sem precisar de interação humana com o provedor de serviços.
+
+- **Amplo acesso a rede (Ubiquitous Network Access)**
+Amplo acesso a rede significa que os serviços da nuvem são acessíveis de qualquer plataforma. São utilizados mecanismos padrões que promovem o uso de plataformas heterogêneas. Assim o cliente pode acessar tanto de seu celular quanto de seu PC ou qualquer outra plataforma.
+
+- **Pool de Recursos (Resource Pooling)**
+Os recursos computacionais da nuvem ficam reunidos geograficamente. Seus recursos virtuais são dinamicamente atribuídos ou retribuídos pelo cliente conforme sua demanda. O cliente não possui controle sobre a real localização dos recursos que está utilizando, tendo somente uma informação mais ampla como o país em que se encontra, o estado ou o Data Center. Os tipos de recursos são: armazenamento, processamento, memória, banda e máquinas virtuais. Até mesmo nuvens privadas tendem a reunir seus recursos entre partes da organização.
+
+- **Elasticidade Rápida (Rapid Elasticy)**
+Elasticidade é definida como a capacidade de alocar mais ou menos recursos no momento em que for necessário, com agilidade. Na ótica do consumidor, a nuvem parece ser infinita, pois ele pode adquirir quanto mais ou menos poder computacional for necessário para suas aplicações. Essa é uma das principais características que tornam a Cloud Computing um serviço muito atrativo.
+
+- **Serviços Mensuráveis (Measured Service)**
+Todos os serviços são controlados e monitorados automaticamente pela nuvem, de maneira que fica tudo transparente tanto para o consumidor quanto para o fornecedor. Isso ajuda o consumidor a otimizar sua utilização da nuvem de acordo com sua produção, e ajuda o provedor na hora da cobrança dos recursos.
+
+## Modelos de Serviço em Cloud Computing:
+
+São 3 os principais modelos de serviço de Cloud Computing:
+
+- **IaaS: Infrastructure as a Service**
+- **PaaS: Platform as a Service**
+- **SaaS: Software as a Service**
+
+### Infraestrutura como um serviço (IaaS)
+A Infraestrutura como um serviço, às vezes abreviada como IaaS, contém os componentes básicos da TI em nuvem e, geralmente, dá acesso (virtual ou no hardware dedicado) a recursos de rede e computadores, como também espaço para o armazenamento de dados. A Infraestrutura como um serviço oferece a você o mais alto nível de flexibilidade e controle de gerenciamento sobre os seus recursos de TI e se assemelha bastante aos recursos de TI atuais com os quais muitos departamentos de TI e desenvolvedores estão familiarizados hoje em dia.
+
+### Plataforma como um serviço (PaaS):
+Com a Plataforma como um serviço, as empresas não precisam mais gerenciar a infraestrutura subjacente (geralmente, hardware e sistemas operacionais), permitindo que você se concentre na implantação e no gerenciamento das suas aplicações. Isso o ajuda a tornar-se mais eficiente, pois elimina as suas preocupações com aquisição de recursos, planejamento de capacidade, manutenção de software, correção ou qualquer outro tipo de trabalho pesado semelhante envolvido na execução da sua aplicação.
+
+### Software como um serviço (SaaS)
+O Software como um serviço oferece um produto completo, executado e gerenciado pelo provedor de serviços. Na maioria dos casos, as pessoas que se referem ao Software como um serviço estão se referindo às aplicações de usuário final. Com uma oferta de SaaS, não é necessário em como o serviço é mantido ou como a infraestrutura subjacente é gerenciada, você só precisa pensar em como usará este tipo específico de software. Um exemplo comum de aplicação do SaaS é o webmail, no qual você pode enviar e receber e-mails sem precisar gerenciar recursos adicionais para o produto de e-mail ou manter os servidores e sistemas operacionais no qual o programa de e-mail está sendo executado.
+
+## Modelos de Implementação em Cloud Computing
+
+- Nuvem Publica (Public Cloud)
+- Nuvem Privada (Private Cloud)
+- Nuvem Híbrida (Hibrid Cloud)
+- Nuvem Comunitária (Community Cloud)
 
 ### O que é uma nuvem pública?
 As nuvens públicas são a maneira mais comum de implantar a computação em nuvem. Os recursos de nuvem (como servidores e armazenamento) pertencem a um provedor de serviço de nuvem terceirizado, são operados por ele e entregues pela Internet. O Microsoft Azure é um exemplo de nuvem pública. Com uma nuvem pública, todo o hardware, software e outras infraestruturas de suporte são de propriedade e gerenciadas pelo provedor de nuvem. Em uma nuvem pública, você compartilha os mesmos dispositivos de hardware, de armazenamento e de rede com outras organizações ou “locatários” da nuvem. Você acessa serviços e gerencia sua conta usando um navegador da Web. As implantações de nuvem pública geralmente são usadas para fornecer email baseado na Web, aplicativos de escritório online, armazenamento e ambientes de desenvolvimento e teste.
@@ -33,24 +79,27 @@ Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combi
 
 ## PPT para Download
 - [Download PPT da apresentação]()
+
+
 ## Links
 
 ### Links da apresentação
 
-- [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)- [State of the Cloud Report 2020 PDF](https://resources.flexera.com/web/pdf/report-state-of-the-cloud-2020.pdf)
+- [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+- [State of the Cloud Report 2020 PDF](https://resources.flexera.com/web/pdf/report-state-of-the-cloud-2020.pdf)
 - [State of the Cloud Report 2020 - Resumo](https://www.flexera.com/about-us/press-center/flexera-releases-2020-state-of-the-cloud-report.html)
-- []()
-- []()
-- []()
-- []()
+- [Developers Roadmap](https://roadmap.sh)
+- [O que é computação em nuvem - by Microsoft](https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/)
+- [O que é computação em nuvem - by AWS](https://aws.amazon.com/pt/what-is-cloud-computing/)
 
 ### Cloud Providers
-- [Amazon AWS]()
-- [Microsoft Azure]()
-- [Google Cloud Platform - GCP]()
-- [Oracle Cloud - OCI]()
-- [Alibaba Cloud]()
-- [IBM Cloud]()
+- [Amazon AWS](https://aws.amazon.com/pt/)
+- [Microsoft Azure](https://azure.microsoft.com/pt-br/)
+- [Google Cloud Platform - GCP](https://cloud.google.com/)
+- [Oracle Cloud - OCI](https://www.oracle.com/br/cloud/)
+- [Alibaba Cloud](https://www.alibabacloud.com/)
+- [IBM Cloud](https://www.ibm.com/cloud)
+- [Digital Ocean](https://www.digitalocean.com)
 
 ### Free Accounts
 
@@ -129,7 +178,6 @@ Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combi
 - .tech Domain Name - Free to use for one year
 - Full, detailed list - https://www.alibabacloud.com/campaign/free-trial
 
-### Outros Links
 
 
 === 
