@@ -2,6 +2,9 @@
 
 Materiais sobre a palestra de Cloud Computing.
 
+## PPT para Download
+- [Download PPT da apresentação](https://1drv.ms/p/s!Ag7lnHyAqpJ2kuomBO29vBZfNIJinw?e=CBl4kd)
+
 ## CONCEITOS DE CLOUD COMPUTING
 
 ### Definição de Cloud Computing (NIST)
@@ -76,10 +79,6 @@ Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combi
 - Flexibilidade – você poderá usufruir de recursos adicionais na nuvem pública sempre que precisar deles.
 - Custo-benefício – com a capacidade de escalar para a nuvem pública, você paga por potência de computação adicional somente quando necessário.
 - Facilidade – a transição para a nuvem não precisa ser turbulenta porque você pode migrar gradualmente, passando as cargas de trabalho ao longo do tempo.
-
-## PPT para Download
-- [Download PPT da apresentação]()
-
 
 ## Links
 
