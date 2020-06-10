@@ -1,9 +1,18 @@
 # ETC - Cloud Computing
-
+===
 Materiais sobre a palestra de Cloud Computing.
 
 
-# CONCEITOS DE CLOUD COMPUTING
+## CONCEITOS DE CLOUD COMPUTING
+
+### O que é uma nuvem pública?
+As nuvens públicas são a maneira mais comum de implantar a computação em nuvem. Os recursos de nuvem (como servidores e armazenamento) pertencem a um provedor de serviço de nuvem terceirizado, são operados por ele e entregues pela Internet. O Microsoft Azure é um exemplo de nuvem pública. Com uma nuvem pública, todo o hardware, software e outras infraestruturas de suporte são de propriedade e gerenciadas pelo provedor de nuvem. Em uma nuvem pública, você compartilha os mesmos dispositivos de hardware, de armazenamento e de rede com outras organizações ou “locatários” da nuvem. Você acessa serviços e gerencia sua conta usando um navegador da Web. As implantações de nuvem pública geralmente são usadas para fornecer email baseado na Web, aplicativos de escritório online, armazenamento e ambientes de desenvolvimento e teste.
+
+**Vantagens das nuvens públicas:**
+- Redução de custos – não há necessidade de comprar hardware ou software e você paga somente pelos serviços que usa.
+- Sem manutenção – seu provedor de serviços fornece a manutenção.
+- Escalabilidade quase ilimitada – recursos sob demanda estão disponíveis para atender às suas necessidades de negócios.
+- Alta confiabilidade – uma ampla rede de servidores assegura contra falhas.
 
 ### O que é nuvem privada?
 Uma nuvem privada consiste em recursos de computação usados exclusivamente por uma única empresa ou organização. A nuvem privada pode estar localizada fisicamente no datacenter local da sua organização ou pode ser hospedada por um provedor de serviços terceirizado. Mas em uma nuvem privada, os serviços e a infraestrutura são sempre mantidos na rede privada e o hardware e o software são dedicados unicamente à sua organização. Dessa forma, com a nuvem privada é mais fácil para que a organização personalize seus recursos a fim de atender a requisitos de TI específicos. As nuvens privadas geralmente são usadas por órgãos governamentais, instituições financeiras e outras organizações de grande porte com operações críticas para os negócios, que buscam melhorar o controle sobre seu ambiente.
