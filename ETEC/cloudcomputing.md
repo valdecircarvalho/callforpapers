@@ -1,4 +1,4 @@
-# ETC - Cloud Computing
+# ETEC - Cloud Computing
 
 Materiais sobre a palestra de Cloud Computing.
 
@@ -37,8 +37,8 @@ Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combi
 
 ### Links da apresentação
 
-- [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)- []()
-- []()
+- [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)- [State of the Cloud Report 2020 PDF](https://resources.flexera.com/web/pdf/report-state-of-the-cloud-2020.pdf)
+- [State of the Cloud Report 2020 - Resumo](https://www.flexera.com/about-us/press-center/flexera-releases-2020-state-of-the-cloud-report.html)
 - []()
 - []()
 - []()
@@ -68,60 +68,69 @@ Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combi
 - BigQuery - 1 TB of querying per month, 10 GB of storage each month
 - Cloud Build - 120 build-minutes per day
 - Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
+- Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
 
 **Amazon Web Services**
 
-Amazon DynamoDB - 25GB NoSQL DB
-Amazon Lambda - 1 Million requests per month
-Amazon SNS - 1 million publishes per month
-Amazon Cloudwatch - 10 custom metrics and 10 alarms
-Amazon Glacier - 10GB long-term object storage
-Amazon SQS - 1 million messaging queue requests
-Amazon CodeBuild - 100min of build time per month
-Amazon Code Commit - 5 active users per month
-Amazon Code Pipeline - 1 active pipeline per month
-Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
-Microsoft Azure
+- Amazon DynamoDB - 25GB NoSQL DB
+- Amazon Lambda - 1 Million requests per month
+- Amazon SNS - 1 million publishes per month
+- Amazon Cloudwatch - 10 custom metrics and 10 alarms
+- Amazon Glacier - 10GB long-term object storage
+- Amazon SQS - 1 million messaging queue requests
+- Amazon CodeBuild - 100min of build time per month
+- Amazon Code Commit - 5 active users per month
+- Amazon Code Pipeline - 1 active pipeline per month
+- Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
-App service - 10 web, mobile or API apps
-Functions - 1 million requests per month
-DevTest Labs - Enable fast, easy, and lean dev-test environments
-Active Directory - 500,000 objects
-Active Directory B2C - 50,000 monthly stored users
-Azure DevOps - 5 active users
-Microsoft IoT Hub - 8,000 messages per day
-Load Balancer - 1 free public load balanced IP (VIP)
-Notification Hubs - 1 million push notifications
-Bandwidth - 5GB egress per month
-Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year
-Full, detailed list - https://azure.microsoft.com/en-us/free/
-Oracle Cloud
+**Microsoft Azure**
 
-Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
-Block Volume - 2 volumes, 100 GB total (used for compute)
-Object Storage - 10 GB
-Load balancer - 1 instance with 10 Mbps
-Databases - 2 DBs, 20 GB each
-Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-Bandwidth - 10TB egress per month
-Notifications - 1 million delivery options per month, 1000 emails sent per month
-Full, detailed list - https://www.oracle.com/cloud/free/
-IBM Cloud
+- App service - 10 web, mobile or API apps
+- Functions - 1 million requests per month
+- DevTest Labs - Enable fast, easy, and lean dev-test environments
+- Active Directory - 500,000 objects
+- Active Directory B2C - 50,000 monthly stored users
+- Azure DevOps - 5 active users
+- Microsoft IoT Hub - 8,000 messages per day
+- Load Balancer - 1 free public load balanced IP (VIP)
+- Notification Hubs - 1 million push notifications
+- Bandwidth - 5GB egress per month
+- Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year
+- Full, detailed list - https://azure.microsoft.com/en-us/free/
 
-Cloud Functions - 5 million executions per month
-Object Storage - 25GB per month
-Cloudant database - 1 GB of data storage
-Db2 database - 100MB of data storage
-API Connect - 50,000 API calls per month
-Availability Monitoring - 3 million data points per month
-Log Analysis - 500MB of daily log
-Full, detailed list - https://www.ibm.com/cloud/free/
-Alibaba Cloud
+**Oracle Cloud**
 
-Compute - 1 ecs.t5-lc1m1.small for 12 months with 40 GB ultra cloud disk or SSD disk and 1 MB internet bandwidth.
-Function Compute - 1 million calls free each month, 400,000 GB-seconds free each month
-API Gateway - For the 1st year you activate API Gateway, you get 1 million free calls each month.
-.tech Domain Name - Free to use for one year
-Full, detailed list - https://www.alibabacloud.com/campaign/free-trial
+- Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
+- Block Volume - 2 volumes, 100 GB total (used for compute)
+- Object Storage - 10 GB
+- Load balancer - 1 instance with 10 Mbps
+- Databases - 2 DBs, 20 GB each
+- Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
+- Bandwidth - 10TB egress per month
+- Notifications - 1 million delivery options per month, 1000 emails sent per month
+- Full, detailed list - https://www.oracle.com/cloud/free/
+
+**IBM Cloud**
+
+- Cloud Functions - 5 million executions per month
+- Object Storage - 25GB per month
+- Cloudant database - 1 GB of data storage
+- Db2 database - 100MB of data storage
+- API Connect - 50,000 API calls per month
+- Availability Monitoring - 3 million data points per month
+- Log Analysis - 500MB of daily log
+- Full, detailed list - https://www.ibm.com/cloud/free/
+
+**Alibaba Cloud**
+
+- Compute - 1 ecs.t5-lc1m1.small for 12 months with 40 GB ultra cloud disk or SSD disk and 1 MB internet bandwidth.
+- Function Compute - 1 million calls free each month, 400,000 GB-seconds free each month
+- API Gateway - For the 1st year you activate API Gateway, you get 1 million free calls each month.
+- .tech Domain Name - Free to use for one year
+- Full, detailed list - https://www.alibabacloud.com/campaign/free-trial
+
 ### Outros Links
+
+
+=== 
+Criado por Valdecir Carvalho | valdecir.carvalho@outlook.com | +551195259-3615 | [valdecir.me](https://valdecir.me)
