@@ -12,13 +12,13 @@ Blogueiro ·  Podcaster ·  Palestrante ·  Community Lover ·  Fotógrafo Apose
 #vExpert · #VMUGLeader · #VUGBrasil · #vBronwBagBrasil · #VeeamVanguard
 
 ### Bio 2
-Valdecir Carvalho é um nerd e pai orgulhoso da Mariana e João. Atualmente trabalha como Engenheiro de Soluções Cloud Sr. na Oracle, É um profissional sênior de TI com foco em arquitetura de infraestrutura e cloud computing. Valdecir também é blogueiro, podcaster, palestrante, amante de comunidades técnicas, fotógrafo aposentado e adora jogos antigos. Se destaca e é membro de várias comunidades de tecnologia, como VMware vExpert, VMUG, vBrownBag, Hashicorp Ambassador e Veeam Vanguard. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br). Você vai encontrá-lo no twitter como @homelaber e seu site é http://valdecir.me
+Valdecir Carvalho é um nerd e pai orgulhoso da Mariana e João. Atualmente trabalha como Global DevRel Community Manager na Oracle, É um profissional sênior de TI com foco em arquitetura de infraestrutura e cloud computing. Valdecir também é blogueiro, podcaster, palestrante, amante de comunidades técnicas, fotógrafo aposentado e adora jogos antigos. Se destaca e é membro de várias comunidades de tecnologia, como VMware vExpert, VMUG, vBrownBag, Hashicorp Ambassador e Veeam Vanguard. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br). Você vai encontrá-lo no twitter como @homelaber e seu site é http://valdecir.me
 
 ### Bio 3
-Valdecir Carvalho é um nerd e um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem. Atualmente é Engenheiro de Soluções Cloud Sr na Oracle, Ele é um amante de comunidades técnicas e foi premiado como VMware vExpert, Veeam Vanguard e Hashicorp Ambassador. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br). Você vai encontrá-lo sempre no twitter @homelaber e seu site é http://valdecir.me
+Valdecir Carvalho é um nerd e um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem. Atualmente é Global DevRel Community Manager na Oracle, Ele é um amante de comunidades técnicas e foi premiado como VMware vExpert, Veeam Vanguard e Hashicorp Ambassador. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br). Você vai encontrá-lo sempre no twitter @homelaber e seu site é http://valdecir.me
 
 ### Bio 3
-Valdecir Carvalho é um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem. Atualmente é Engenheiro de Soluções Cloud Sr na Oracle. Amante de comunidades técnicas, foi premiado como VMware vExpert, Veeam Vanguard e Hashicorp Ambassador. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br). Você vai encontrá-lo sempre no twitter @homelaber e seu site é http://valdecir.me
+Valdecir Carvalho é um profissional sênior de TI com foco em arquitetura de infraestrutura e computação em nuvem. Atualmente é Global DevRel Community Manager na Oracle. Amante de comunidades técnicas, foi premiado como VMware vExpert, Veeam Vanguard e Hashicorp Ambassador. Ele também dedica seu tempo como blogueiro do Homelaber Brasil (http://homelaber.com.br). Você vai encontrá-lo sempre no twitter @homelaber e seu site é http://valdecir.me
 
 ### Informações de contato:
 
