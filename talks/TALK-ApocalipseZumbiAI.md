@@ -1,7 +1,7 @@
 # Titulo: Um guia para sobreviver ao apocalipse (Zumbi) de IA.
 
 ## Resumo
-À medida que a inteligência artificial (IA) continua a evoluir e se integrar em todos os aspectos de nossa vida, enfrentamos um "apocalipse" de novas tecnologias e paradigmas que podem parecer tão desafiadores quanto um filme de zumbis. Em um cenário onde novas ferramentas, algoritmos e abordagens emergem constantemente, como podemos manter a relevância e a eficácia?
+IA é o assunto do momento, então porque não juntar dois temas que me atraem bastante? Filmes de Zumbi e Inteligencia Artificial (e um pouco de fim do mundo apocaliptico)? À medida que a inteligência artificial (IA) continua a evoluir e se integrar em todos os aspectos de nossa vida, enfrentamos um "apocalipse" de novas tecnologias e paradigmas que podem parecer tão desafiadores quanto um filme de zumbis. Em um cenário onde novas ferramentas, algoritmos e abordagens emergem constantemente, como podemos manter a relevância e a eficácia?
 
 Nesta palestra, exploraremos como as regras de sobrevivência do filme "Zumbilândia" podem ser aplicadas ao mundo da IA, oferecendo uma abordagem divertida e perspicaz para lidar com as rápidas mudanças tecnológicas. Desde "Cardio" até "Não seja Tímido", cada regra será explorada como uma metáfora para estratégias essenciais na implementação e gestão da IA.
 
